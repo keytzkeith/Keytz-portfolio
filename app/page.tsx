@@ -504,19 +504,19 @@ export default function Portfolio() {
               </p>
               <div className="flex justify-center space-x-6">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/keytzkeith"
                   className="p-3 bg-gray-800 rounded-full hover:bg-blue-500 transition-all duration-300 transform hover:scale-110"
                 >
                   <Github className="h-6 w-6" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="www.linkedin.com/in/keith-odera-0437a1317"
                   className="p-3 bg-gray-800 rounded-full hover:bg-blue-500 transition-all duration-300 transform hover:scale-110"
                 >
                   <Linkedin className="h-6 w-6" />
                 </a>
                 <a
-                  href="mailto:keith@example.com"
+                  href="mailto:keithodera@gmail.com
                   className="p-3 bg-gray-800 rounded-full hover:bg-blue-500 transition-all duration-300 transform hover:scale-110"
                 >
                   <Mail className="h-6 w-6" />
@@ -551,7 +551,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="py-8 px-6 border-t border-gray-800">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="text-gray-400">© 2024 Keith Barnabas. Built with Next.js and deployed on GitHub Pages.</p>
+          <p className="text-gray-400">© 2024 Keith Odera. Built with Next.js</p>
         </div>
       </footer>
     </div>
