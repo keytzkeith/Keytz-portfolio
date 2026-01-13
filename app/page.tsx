@@ -510,13 +510,13 @@ export default function Portfolio() {
                   <Github className="h-6 w-6" />
                 </a>
                 <a
-                  href="www.linkedin.com/in/keith-odera-0437a1317"
+                  href="https://www.linkedin.com/in/keith-odera-0437a1317"
                   className="p-3 bg-gray-800 rounded-full hover:bg-blue-500 transition-all duration-300 transform hover:scale-110"
                 >
                   <Linkedin className="h-6 w-6" />
                 </a>
                 <a
-                  href="mailto:keithodera@gmail.com
+                  href="mailto:keithodera@gmail.com"
                   className="p-3 bg-gray-800 rounded-full hover:bg-blue-500 transition-all duration-300 transform hover:scale-110"
                 >
                   <Mail className="h-6 w-6" />
